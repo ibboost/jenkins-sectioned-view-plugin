@@ -9,7 +9,7 @@
   <artifactId>sectioned-view-ibb</artifactId>
   <packaging>hpi</packaging>
   <name>Sectioned View Plugin</name>
-  <version>1.25.1</version>
+  <version>1.25.1-SNAPSHOT</version>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/Sectioned+View+Plugin</url>
   <developers>
     <developer>
